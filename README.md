@@ -1,1 +1,1 @@
-# random-hinata
+# random
